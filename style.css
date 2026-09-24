@@ -1869,3 +1869,164 @@ button:active {
     }
 
 }
+
+
+
+/* =========================================
+   DOOR OPENING — FLASH + HEART BURST
+========================================= */
+
+.door-flash {
+    position: fixed;
+    inset: 0;
+    z-index: 40;
+
+    opacity: 0;
+    pointer-events: none;
+
+    background:
+        radial-gradient(
+            circle at var(--flash-x, 50%) var(--flash-y, 50%),
+            rgba(255, 235, 250, 0.85),
+            rgba(255, 170, 225, 0.35) 30%,
+            transparent 65%
+        );
+
+    animation: doorFlash 1.6s ease-out forwards;
+}
+
+@keyframes doorFlash {
+    0%   { opacity: 0; }
+    18%  { opacity: 0.75; }
+    100% { opacity: 0; }
+}
+
+.burst-particle {
+    position: fixed;
+    z-index: 45;
+
+    left: var(--start-x);
+    top: var(--start-y);
+
+    line-height: 1;
+    opacity: 0;
+
+    pointer-events: none;
+    user-select: none;
+
+    text-shadow:
+        0 0 8px currentColor,
+        0 0 18px currentColor;
+
+    animation:
+        burstOut
+        var(--dur, 1.3s)
+        cubic-bezier(.15, .7, .3, 1)
+        var(--delay, 0s)
+        forwards;
+}
+
+@keyframes burstOut {
+
+    0% {
+        opacity: 0;
+        transform: translate(-50%, -50%) scale(.3) rotate(0deg);
+    }
+
+    15% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+        transform:
+            translate(
+                calc(-50% + var(--dx)),
+                calc(-50% + var(--dy))
+            )
+            scale(1)
+            rotate(var(--rot));
+    }
+
+}
+
+
+/* =========================================
+   JOURNEY PROGRESS DOTS
+========================================= */
+
+.journey-progress {
+    position: fixed;
+
+    left: 50%;
+    bottom: calc(10px + env(safe-area-inset-bottom, 0px));
+
+    transform: translateX(-50%);
+
+    z-index: 30;
+
+    display: flex;
+    gap: 10px;
+
+    padding: 4px 10px;
+
+    opacity: 0;
+    pointer-events: none;
+
+    transition: opacity .8s ease;
+}
+
+.journey-progress.visible {
+    opacity: 1;
+}
+
+.progress-dot {
+    width: 8px;
+    height: 8px;
+
+    border: 1px solid rgba(223, 199, 245, 0.45);
+    border-radius: 50%;
+
+    background: transparent;
+
+    transition:
+        background .6s ease,
+        border-color .6s ease,
+        box-shadow .6s ease,
+        transform .6s ease;
+}
+
+.progress-dot.filled {
+    border-color: var(--light-purple);
+    background: var(--light-purple);
+}
+
+.progress-dot.current {
+    transform: scale(1.35);
+
+    box-shadow:
+        0 0 10px rgba(223, 199, 245, 0.75);
+}
+
+
+/* =========================================
+   REDUCED MOTION
+========================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+    .burst-particle {
+        display: none;
+    }
+
+    .door-flash {
+        animation-name: doorFlashSoft;
+    }
+
+    @keyframes doorFlashSoft {
+        0%   { opacity: 0; }
+        30%  { opacity: 0.3; }
+        100% { opacity: 0; }
+    }
+
+}

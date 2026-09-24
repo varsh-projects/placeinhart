@@ -44,7 +44,117 @@ const friends = {
             "Our friendship is an unbreakable bond that we always find our way back to, no matter what.",
 
         promise:
-            "to always be your shoulder to cry on and your calm harbor, even in my darkest moments."
+            "to always be your shoulder to cry on and your calm harbor, even in my darkest moments.",
+
+        scene: {
+            title: "If we were together...",
+
+            text:
+    "Imagine this. Almost a year has passed, " +
+    "and somehow, we have both grown up, started working, " +
+    "and settled into our own lives. " +
+    "We are both busy with our own routines, " +
+    "but somewhere inside me, I still imagine this one day happening. " +
+
+    "You are sitting at your office, busy with your work, " +
+    "when suddenly your phone gets a message from an unknown number. " +
+    "You open it, expecting something random, " +
+    "but the message simply says, 'Can you come downstairs for a minute?' " +
+
+    "Nothing else. No explanation. " +
+    "You would probably stare at the message for a few seconds, " +
+    "completely confused about who could possibly be texting you. " +
+
+    "Then another message comes. " +
+    "'Come to the cafeteria.' " +
+
+    "Still, you have absolutely no idea who it is. " +
+    "So you leave your work for a while and slowly walk downstairs. " +
+    "While you are walking towards the cafeteria, " +
+    "another message suddenly appears. " +
+    "'Look at Table 20.' " +
+
+    "You reach the cafeteria entrance and look around. " +
+    "You find Table 20, and there is someone sitting there. " +
+    "At first, you cannot see her face properly. " +
+    "You only notice that it is a girl sitting there, " +
+    "looking down at her phone. " +
+
+    "You slowly walk closer. " +
+    "And just when you are close enough, " +
+    "she puts her phone down and looks up. " +
+
+    "And it's me. " +
+
+    "For a second, I don't think you would even know how to react. " +
+    "And I don't think I would say anything either. " +
+    "I'd just look at you with tears already filling my eyes, " +
+    "because after all those days of missing you, " +
+    "you would suddenly be standing right in front of me. " +
+
+    "I wouldn't say anything. " +
+    "I'd just get up and hug you. " +
+    "A really tight hug. " +
+    "The kind of hug where I wouldn't even have to say, 'I missed you,' " +
+    "because every single day that I missed you " +
+    "would already be inside that hug. " +
+
+    "I'd hold you for a little longer, " +
+    "because there would be so many days to make up for. " +
+    "Then I'd gently kiss your forehead, " +
+    "and we'd sit together at that same table. " +
+
+    "We'd start talking about everything. " +
+    "Our work, our lives, the things that happened, " +
+    "the things we never got to tell each other, " +
+    "and all the little things that happened while we were apart. " +
+
+    "Maybe you'd tell me about the things that have been hurting you. " +
+    "Maybe you'd tell me about the days when you felt lonely, " +
+    "the things you kept inside, " +
+    "or the moments when you simply needed someone to listen. " +
+
+    "And I'd just listen to you. " +
+    "I wouldn't interrupt you or try to fix everything immediately. " +
+    "I'd just sit there beside you and let you tell me everything, " +
+    "trying my best to make you feel a little lighter. " +
+
+    "And after talking for a while, " +
+    "you'd probably look at me and ask, " +
+    "'Why did you text me from an unknown number? " +
+    "You could have just messaged me normally.' " +
+
+    "And I'd probably smile and tell you, " +
+    "'Because if I had messaged you from my number, " +
+    "you would've known it was me immediately.' " +
+
+    "Then I'd look at you and say, " +
+    "'I wanted to see your reaction without you knowing I was coming. " +
+    "If I had told you beforehand, " +
+    "I would never have gotten to see that exact happiness on your face.' " +
+
+    "I'd tell you that I wanted to see that one moment " +
+    "when you looked at me and realized I was actually standing there. " +
+    "That little second when all the confusion disappeared " +
+    "and you finally realized it was me. " +
+
+    "Because that surprise, that happiness, " +
+    "and that look on your face " +
+    "would be something I would want to keep in my heart forever. " +
+
+    "And maybe after all those months apart, " +
+    "we wouldn't need anything grand or perfect. " +
+    "Just sitting beside each other in that cafeteria, " +
+    "talking about everything and nothing, " +
+    "would be enough. " +
+
+    "Because after almost a year of living separate lives, " +
+    "I'd finally get to look at you and think, " +
+    "'You're really here.'",
+
+            ending:
+            "Just an ordinary evening... but one I'd never want to forget. ♡"
+        }
 
     },
 
@@ -72,7 +182,98 @@ const friends = {
             "Our friendship is an unspoken sanctuary of trust and gentle understanding.",
 
         promise:
-            "I promise to always be your steady support and a safe harbor whenever you face any pain."
+            "I promise to always be your steady support and a safe harbor whenever you face any pain.",
+
+        scene: {
+            title: "Just one ordinary college day...",
+
+            text:
+    "Imagine "+
+    
+
+    "one ordinary day, after you come home from work, " +
+    "you notice a huge box waiting for you. " +
+    "It looks beautifully decorated, with little pink flowers and ribbons all over it. " +
+    "You have no idea who sent it or what's inside. " +
+    "So you sit down and slowly open it. " +
+
+    "The first thing you notice is a ceramic cup. " +
+    "Then you find a pillow, a heart-shaped keychain, " +
+    "a photo frame, and a beautifully packed invitation. " +
+    "Everything looks so carefully chosen that you start wondering " +
+    "what all of this could possibly mean. " +
+
+    "You pick up the cup first. " +
+    "Inside it, there's a tiny folded piece of paper. " +
+    "You open it and read, 'For something that's always been in my heart.' " +
+
+    "You smile, still confused, and notice that the cup is meant to reveal something. " +
+    "You pour some hot water into it, " +
+    "and slowly, a picture begins to appear on the cup. " +
+
+    "It's a photo of the three of us. " +
+    "You, me, and Princy. " +
+
+    "You just stare at it for a few seconds, " +
+    "because you weren't expecting to see that photo at all. " +
+
+    "Then you pick up the heart-shaped keychain. " +
+    "It opens in the middle like a little heart. " +
+    "One half has my photo, the other half has Princy's photo, " +
+    "and right in the middle, there's your photo. " +
+
+    "You probably smile the moment you see it, " +
+    "because somehow, even after all these years, " +
+    "I still found a way to keep the three of us together in one little heart. " +
+
+    "Then you pick up the photo frame. " +
+    "You open it and find another picture of the three of us, " +
+    "standing together and smiling like we never spent all those years apart. " +
+
+    "And then there's the invitation. " +
+    "You slowly open it, wondering what could possibly be inside. " +
+
+    "And there it is. " +
+
+    "A flight ticket. " +
+
+    "Your name is on it. " +
+
+    "Destination: Paris. " +
+
+    "You look at it again because you can't believe what you're seeing. " +
+    "Then you find another set of tickets. " +
+    "Your family has tickets too. " +
+    "Everything has already been arranged. " +
+
+    "The hotel reservation is there too. " +
+    "The stay is already booked. " +
+    "The flights are already booked. " +
+    "Everything is ready. " +
+
+    "And just when you think you've seen everything, " +
+    "you notice one last tiny card hidden inside the invitation. " +
+
+    "You slowly take it out and unfold it. " +
+
+    "It simply says, " +
+    "'Come meet me soon. " +
+    "I'm waiting for you. " +
+    "My soul is in Paris.' " +
+
+    "And maybe at that moment, " +
+    "you'd finally understand that this wasn't just a box full of gifts. " +
+    "It was my way of telling you that no matter how busy life became, " +
+    "no matter how many years passed, " +
+    "and no matter how far life took us, " +
+    "there would always be a place where the three of us belonged together. " +
+
+    "And somewhere in Paris, " +
+    "I'd be waiting for you.",
+
+            ending:
+            "Nothing extraordinary. Just a simple day with a friend. ♡"
+        }
 
     },
 
@@ -104,7 +305,21 @@ const friends = {
             "Our friendship is a playful, beautiful bond where we can tease each other one second and hold each other up the next.",
 
         promise:
-            "I promise to always hold you, care for you, and stay by your side through every storm, even if the whole world falls apart."
+            "I promise to always hold you, care for you, and stay by your side through every storm, even if the whole world falls apart.",
+
+        scene: {
+            title: "A little moment with you...",
+
+            text:
+            "imagine you came from work all tired and opened the door of you house"+
+            "but it was already opened being confused you opened the door and entered inside, " +
+            "but everything was dark as you came home at nyt and when you turn on all the lights suddenly a loud shout of" +
+            " HAPPY BIRTHDAY PRINCYYYYYY was heard and there stood me, seetha , prithika, your sister all grown up and your parents"+
+            "being proud of their first daughter and the whole nyt we had a lot of fun after cutting cake like movie marathon and moreeee",
+
+            ending:
+            "Maybe the best memories are the ones we never planned. ♡"
+        }
 
     },
 
@@ -135,7 +350,24 @@ const friends = {
             "Every friendship has its own kind of chaos, and ours has its own.",
 
         promise:
-            "Keep being exactly the person who made this friendship special. never change for others"
+            "Keep being exactly the person who made this friendship special. never change for others",
+
+        scene: {
+            title: "THE DAY I WILL BBE NEXT TO YOU...",
+
+            text:
+            " imagine you went to the beach after yoou work "+" and sitting there you started missing your famaliy"+
+            "and suddenly some one sat near you and you didn't even pay much attention until a key chain hang in the air"+
+            "infront of you and when you look at your side i was sitting next you with a smile"+
+            "and then i give you the yightest hug there and take you from there to your pg and then you get to know"+
+            " i was going to stay with you in next room of you in your pg"+
+            "from the next day us sitting somewhere quiet and talking " +
+            "for hours about random thoughts, silly things, " +
+            "dreams and everything in between.",
+
+            ending:
+            "Some friendships just feel strangely familiar. ♡"
+        }
 
     },
 
@@ -166,7 +398,21 @@ const friends = {
             "Some friendships become comforting little corners of life.",
 
         promise:
-            "I hope this friendship always has room for more smiles."
+            "I hope this friendship always has room for more smiles.",
+
+        scene: {
+            title: "If you were sitting beside me...",
+
+            text:
+            "imagine a day when you where leaving from clg and " +
+            "suddenly someone came to you giving a bouquet od roses to you" +
+            "and said to turn over and you get to see me there with a smile and then" +
+            "without any warning you were crushed in a tight embrace of mine and i chuckle with happy tears"+
+            "and the next day i take you out and give everything "+"i always wished to give you a day full of happiness",
+
+            ending:
+            "Some day i would be your real sister to look after you the way you after me now ♡"
+        }
 
     },
 
@@ -196,7 +442,22 @@ const friends = {
             "Our friendship is one more little chapter in this beautiful chaos.",
 
         promise:
-            "May there always be more conversations and more memories."
+            "May there always be more conversations and more memories.",
+
+        scene: {
+            title: "One random day with you...",
+
+            text:
+            "I imagine us spending a whole day together, " +
+            "laughing over random things, sharing stories " +
+            "and making fun out of even the most boring moments."+
+            "a day where i take you out ofr shoping, and everything just spending the day"+
+            "and when the nyt enters leaving you back at your house we talk for min and i slowly "+
+            "walk away with a smile in my lips that day...",
+
+            ending:
+            "An ordinary day made special because you were there. ♡"
+        }
 
     },
 
@@ -227,7 +488,21 @@ const friends = {
             "Our friendship is a beautiful sanctuary of absolute comfort, trust, and unspoken understanding.",
 
         promise:
-            "I promise to always be your walking diary and hold you close whenever you need warmth and care."
+            "I promise to always be your walking diary and hold you close whenever you need warmth and care.",
+
+        scene: {
+            title: "A memory we haven't made yet...",
+
+            text:
+            "just a day with you where you talk all we want , " +
+            "roming around in places and laughing our heart out " +
+            "that probably wouldn't make sense to anyone else."+
+            "i want spean a whole day with you just "+
+            "listen to you...do everything we wish. have a day just for us ",
+
+            ending:
+            "Maybe some imaginary memories deserve to become real ones someday. ♡"
+        }
 
     },
 
@@ -261,7 +536,24 @@ const friends = {
             "every love starts with a friendship but we hide it in the name of freindship",
 
         promise:
-            "Even after this anger i will run to you cuz my love for you is more than anything that even my anger feels to small."
+            "Even after this anger i will run to you cuz my love for you is more than anything that even my anger feels to small.",
+
+        scene: {
+            title: "A day of us",
+
+            text:
+            " oru nala apartment soft painted wall oda soft cozy ahh oru greay sofa abd balcony fulla plants and anga oru unjal"+
+
+            "neyum nanum antha unjal ukantu una en lap la ukara vachu back hug panitu clam ahh tea kudichitu just few words betweetn us" +
+
+            "just us soft music potu pinadi soft evening la comfortable ahh"+
+            "i wish to hold like that for life long all smiling all loveing "+
+            "un cheecks la apo apo kiss panitu una apdiyea en embrace liyea vachu pathukanum",
+
+
+            ending:
+            "Just one little moment where everything feels happy again. ♡"
+        }
 
     }
 
@@ -865,153 +1157,131 @@ document
 
 
 /* =====================================================
-   20 — FRIEND SECRET SCENES
+   20 — DOOR OPENING EFFECTS (LIGHT FLASH + HEART BURST)
 ===================================================== */
 
-const secretScenes = {
+const burstSymbols = ["♥", "♡", "✦", "✧", "♥", "✦"];
 
-    Varsha: {
-
-        title: "If we were together...",
-
-        text:
-        "imagine us sitting somewhere after college, " +
-        "talking about everything that happened that day. " +
-        "Maybe you'd tell me something that was bothering you, " +
-        "and I'd remind you that you never have to question " +
-        "your place in my life.",
-
-        ending:
-        "Just an ordinary evening... but one I'd never want to forget. ♡"
-
-    },
+const burstColors = [
+    "#ff8fc7",
+    "#ffb3dc",
+    "#ffd9f0",
+    "#dfc7f5",
+    "#ffffff"
+];
 
 
-    Seetha: {
+function celebrateDoorOpening() {
 
-        title: "Just one ordinary college day...",
+    const doorFrame =
+        document.querySelector(".door-frame");
 
-        text:
-        "imagine us sitting together between classes, " +
-        "talking about completely random things and laughing " +
-        "at something that probably wouldn't even make sense " +
-        "to anyone else.",
-
-        ending:
-        "Nothing extraordinary. Just a simple day with a friend. ♡"
-
-    },
+    if (!doorFrame) {
+        return;
+    }
 
 
-    Princy: {
+    /* Center of the doorway (screen coordinates) */
 
-        title: "A little moment with you...",
+    const rect = doorFrame.getBoundingClientRect();
 
-        text:
-        "imagine you came from work all tired and opened the door of you house"+
-        "but it was already opened being confused you opened the door and entered inside, " +
-        "but everything was dark as you came home at nyt and when you turn on all the lights suddenly a loud shout of" +
-        " HAPPY BIRTHDAY PRINCYYYYYY was heard and there stood me, seetha , prithika, your sister all grown up and your parents"+
-        "being proud of their first daughter and the whole nyt we had a lot of fun after cutting cake like movie marathon and moreeee",
+    const originX = rect.left + rect.width / 2;
 
-        ending:
-        "Maybe the best memories are the ones we never planned. ♡"
-
-    },
+    const originY = rect.top + rect.height / 2;
 
 
-    Ani: {
+    /* ---------------------------------------------
+       SOFT FLASH OF LIGHT
+    --------------------------------------------- */
 
-        title: "THE DAY I WILL BBE NEXT TO YOU...",
+    const flash = document.createElement("div");
 
-        text:
-        " imagine you went to the beach after yoou work "+" and sitting there you started missing your famaliy"+
-        "and suddenly some one sat near you and you didn't even pay much attention until a key chain hang in the air"+
-        "infront of you and when you look at your side i was sitting next you with a smile"+
-        "and then i give you the yightest hug there and take you from there to your pg and then you get to know"+
-        " i was going to stay with you in next room of you in your pg"+
-        "from the next day us sitting somewhere quiet and talking " +
-        "for hours about random thoughts, silly things, " +
-        "dreams and everything in between.",
+    flash.className = "door-flash";
 
-        ending:
-        "Some friendships just feel strangely familiar. ♡"
+    flash.style.setProperty("--flash-x", originX + "px");
 
-    },
+    flash.style.setProperty("--flash-y", originY + "px");
 
+    flash.addEventListener("animationend", function() {
 
-    Ishu: {
+        flash.remove();
 
-        title: "If you were sitting beside me...",
+    });
 
-        text:
-        "imagine a day when you where leaving from clg and " +
-        "suddenly someone came to you giving a bouquet od roses to you" +
-        "and said to turn over and you get to see me there with a smile and then" +
-        "without any warning you were crushed in a tight embrace of mine and i chuckle with happy tears"+
-        "and the next day i take you out and give everything "+"i always wished to give you a day full of happiness",
-
-        ending:
-        "Some day i would be your real sister to look after you the way you after me now ♡"
-
-    },
+    document.body.appendChild(flash);
 
 
-    Kavi: {
+    /* ---------------------------------------------
+       BURST OF HEARTS + SPARKLES
+    --------------------------------------------- */
 
-        title: "One random day with you...",
+    const count = window.innerWidth < 500 ? 20 : 28;
 
-        text:
-        "I imagine us spending a whole day together, " +
-        "laughing over random things, sharing stories " +
-        "and making fun out of even the most boring moments."+
-        "a day where i take you out ofr shoping, and everything just spending the day"+
-        "and when the nyt enters leaving you back at your house we talk for min and i slowly "+
-        "walk away with a smile in my lips that day...",
+    for (let i = 0; i < count; i++) {
 
-        ending:
-        "An ordinary day made special because you were there. ♡"
+        const particle = document.createElement("span");
 
-    },
+        const angle = Math.random() * Math.PI * 2;
 
+        const distance = 90 + Math.random() * 150;
 
-    Anu: { 
+        particle.className = "burst-particle";
 
-        title: "A memory we haven't made yet...",
+        particle.textContent =
+            burstSymbols[
+                Math.floor(Math.random() * burstSymbols.length)
+            ];
 
-        text:
-        "just a day with you where you talk all we want , " +
-        "roming around in places and laughing our heart out " +
-        "that probably wouldn't make sense to anyone else."+
-        "i want spean a whole day with you just "+
-        "listen to you...do everything we wish. have a day just for us ",
+        particle.style.color =
+            burstColors[
+                Math.floor(Math.random() * burstColors.length)
+            ];
 
-        ending:
-        "Maybe some imaginary memories deserve to become real ones someday. ♡"
+        particle.style.fontSize =
+            (14 + Math.random() * 16) + "px";
 
-    },
+        particle.style.setProperty("--start-x", originX + "px");
 
+        particle.style.setProperty("--start-y", originY + "px");
 
-    Shalini: {
+        /* Fly outward, with a slight upward drift */
 
-        title: "A day of us",
+        particle.style.setProperty(
+            "--dx",
+            Math.cos(angle) * distance + "px"
+        );
 
-        text:
-        " oru nala apartment soft painted wall oda soft cozy ahh oru greay sofa abd balcony fulla plants and anga oru unjal"+
-        
-        "neyum nanum antha unjal ukantu una en lap la ukara vachu back hug panitu clam ahh tea kudichitu just few words betweetn us" +
-        
-        "just us soft music potu pinadi soft evening la comfortable ahh"+
-        "i wish to hold like that for life long all smiling all loveing "+
-        "un cheecks la apo apo kiss panitu una apdiyea en embrace liyea vachu pathukanum",
+        particle.style.setProperty(
+            "--dy",
+            (Math.sin(angle) * distance - 30) + "px"
+        );
 
+        particle.style.setProperty(
+            "--rot",
+            (Math.random() * 120 - 60) + "deg"
+        );
 
-        ending:
-        "Just one little moment where everything feels happy again. ♡"
+        particle.style.setProperty(
+            "--dur",
+            (1 + Math.random() * 0.6) + "s"
+        );
+
+        particle.style.setProperty(
+            "--delay",
+            (Math.random() * 0.2) + "s"
+        );
+
+        particle.addEventListener("animationend", function() {
+
+            particle.remove();
+
+        });
+
+        document.body.appendChild(particle);
 
     }
 
-};
+}
 
 
 /* =====================================================
@@ -1027,10 +1297,9 @@ document
             return;
         }
 
-        const friend =
-            secretScenes[currentFriend.name];
+        const scene = currentFriend.scene;
 
-        if (!friend) {
+        if (!scene) {
             console.error(
                 "No secret scene found for:",
                 currentFriend.name
@@ -1049,22 +1318,19 @@ document
         const doorMessage =
             document.getElementById("doorMessage");
 
-        const sceneScreen =
-            document.getElementById("sceneScreen");
-
 
         /* ---------------------------------------------
            PREPARE SECRET SCENE FIRST
         --------------------------------------------- */
 
         document.getElementById("sceneTitle").textContent =
-            friend.title;
+            scene.title;
 
         document.getElementById("sceneText").textContent =
-            friend.text;
+            scene.text;
 
         document.getElementById("sceneEnding").textContent =
-            friend.ending;
+            scene.ending;
 
 
         /* ---------------------------------------------
@@ -1078,7 +1344,7 @@ document
 
 
         /* ---------------------------------------------
-           OPEN DOOR
+           OPEN DOOR  (flash + heart burst)
         --------------------------------------------- */
 
         setTimeout(function() {
@@ -1090,6 +1356,8 @@ document
             doorMessage.textContent =
                 "Some doors are worth opening. ♡";
 
+            celebrateDoorOpening();
+
         }, 1200);
 
 
@@ -1099,11 +1367,10 @@ document
 
         setTimeout(function() {
 
-            document
-                .getElementById("secretScreen")
-                .classList.remove("active");
-
-            sceneScreen.classList.add("active");
+            changeScreen(
+                "secretScreen",
+                "sceneScreen"
+            );
 
         }, 3000);
 
@@ -1172,6 +1439,8 @@ function changeScreen(oldScreen, newScreen) {
 
     newElement.classList.add("active");
 
+    updateProgress(newScreen);
+
 }
 
 
@@ -1193,3 +1462,81 @@ document.addEventListener(
 
     }
 );
+
+
+
+/* =====================================================
+   25 — JOURNEY PROGRESS DOTS
+===================================================== */
+
+/* One dot per screen after the door, in order */
+
+const journeyScreens = [
+    "welcomeScreen",
+    "letterScreen",
+    "littleThingsScreen",
+    "gameScreen",
+    "secretScreen",
+    "sceneScreen",
+    "finalScreen"
+];
+
+const journeyProgress =
+    document.getElementById("journeyProgress");
+
+
+function buildProgress() {
+
+    journeyProgress.setAttribute(
+        "aria-valuemax",
+        journeyScreens.length
+    );
+
+    journeyScreens.forEach(function() {
+
+        const dot = document.createElement("span");
+
+        dot.className = "progress-dot";
+
+        journeyProgress.appendChild(dot);
+
+    });
+
+}
+
+
+function updateProgress(screenId) {
+
+    const step = journeyScreens.indexOf(screenId);
+
+
+    /* The door (entry screen) has no dots yet */
+
+    if (step === -1) {
+
+        journeyProgress.classList.remove("visible");
+
+        return;
+
+    }
+
+
+    journeyProgress.classList.add("visible");
+
+    journeyProgress.setAttribute("aria-valuenow", step + 1);
+
+
+    journeyProgress
+        .querySelectorAll(".progress-dot")
+        .forEach(function(dot, index) {
+
+            dot.classList.toggle("filled", index <= step);
+
+            dot.classList.toggle("current", index === step);
+
+        });
+
+}
+
+
+buildProgress();
