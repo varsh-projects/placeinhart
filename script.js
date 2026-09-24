@@ -50,12 +50,8 @@ const friends = {
             title: "If we were together...",
 
             text:
-    "Imagine this. Almost a year has passed, " +
-    "and somehow, we have both grown up, started working, " +
-    "and settled into our own lives. " +
-    "We are both busy with our own routines, " +
-    "but somewhere inside me, I still imagine this one day happening. " +
-
+    "Imagine... " +
+    
     "You are sitting at your office, busy with your work, " +
     "when suddenly your phone gets a message from an unknown number. " +
     "You open it, expecting something random, " +
@@ -311,11 +307,86 @@ const friends = {
             title: "A little moment with you...",
 
             text:
-            "imagine you came from work all tired and opened the door of you house"+
-            "but it was already opened being confused you opened the door and entered inside, " +
-            "but everything was dark as you came home at nyt and when you turn on all the lights suddenly a loud shout of" +
-            " HAPPY BIRTHDAY PRINCYYYYYY was heard and there stood me, seetha , prithika, your sister all grown up and your parents"+
-            "being proud of their first daughter and the whole nyt we had a lot of fun after cutting cake like movie marathon and moreeee",
+    "Imagine you coming back from work one night, " +
+    "completely tired after a really long day. " +
+    "Even though you're exhausted, you still keep working " +
+    "because you want to take care of your parents and your little sister. " +
+    "You've chosen to work outside and live on your own, " +
+    "so you can take care of everyone you love. " +
+
+    "You finally reach your apartment at night. " +
+    "You take your bag, search for your key, " +
+    "and walk towards your door. " +
+
+    "But before you even put the key in, " +
+    "you notice that the door is already open. " +
+
+    "You just stand there for a second, confused. " +
+    "Maybe you feel a little scared too, " +
+    "because you know you definitely didn't leave it open. " +
+    "But you slowly tell yourself, 'Maybe I forgot to close it properly,' " +
+    "and you push the door open. " +
+
+    "The whole room is completely dark. " +
+    "It's already night, you're tired, and suddenly you're standing " +
+    "inside a completely dark apartment. " +
+
+    "You slowly reach for the switch and turn it on. " +
+
+    "And suddenly, the entire room lights up. " +
+
+    "Everyone screams, 'HAPPY BIRTHDAY, PRINCEY!' " +
+
+    "You immediately close your eyes because of the sudden loud sound, " +
+    "and for a second, you don't even understand what's happening. " +
+
+    "Then you slowly open your eyes. " +
+
+    "Right in the center of the room, " +
+    "there's a beautiful Black Forest cake waiting for you. " +
+
+    "I'm standing there smiling at you. " +
+    "Seetha is standing beside me, smiling. " +
+    "Your little sister is standing there too, " +
+    "all grown up now and smiling at you. " +
+    "Prithika is standing beside her, smiling too. " +
+
+    "And your parents are standing there, " +
+    "looking at you with so much happiness and pride. " +
+
+    "And after all our college days are over, " +
+    "after all of us have grown up and become busy with our own lives, " +
+    "we're suddenly all standing together again, " +
+    "in the same room, just for you. " +
+
+    "I don't think I'd even let you say anything first. " +
+    "I'd just run to you, hug you tightly, " +
+    "and because I've missed you for so long, " +
+    "I'd lift you up and spin you around for a few seconds. " +
+
+    "Then I'd put you down, look at you, " +
+    "and just laugh because of how shocked you look. " +
+
+    "I'd tell you, 'Happy birthday, Princey,' " +
+    "and we'd all make you cut the cake together. " +
+
+    "You'd be smiling so much, " +
+    "and your parents would just stand there watching you proudly. " +
+
+    "Then we'd all eat the cake, take pictures, " +
+    "laugh about our college days, talk about everything that happened, " +
+    "and just enjoy being together after such a long time. " +
+
+    "And for that one night, " +
+    "you don't have to think about work, responsibilities, " +
+    "or taking care of everyone else. " +
+
+    "You can just sit there, laugh, eat cake, " +
+    "and let all of us take care of you for once. " +
+
+    "Because you've spent so much time worrying about everyone else, " +
+    "so this time, I just want you to know " +
+    "that you have people who will always come back for you too.",
 
             ending:
             "Maybe the best memories are the ones we never planned. ♡"
@@ -353,17 +424,80 @@ const friends = {
             "Keep being exactly the person who made this friendship special. never change for others",
 
         scene: {
-            title: "THE DAY I WILL BBE NEXT TO YOU...",
+            title: "THE DAY I WILL BE NEXT TO YOU...",
 
             text:
-            " imagine you went to the beach after yoou work "+" and sitting there you started missing your famaliy"+
-            "and suddenly some one sat near you and you didn't even pay much attention until a key chain hang in the air"+
-            "infront of you and when you look at your side i was sitting next you with a smile"+
-            "and then i give you the yightest hug there and take you from there to your pg and then you get to know"+
-            " i was going to stay with you in next room of you in your pg"+
-            "from the next day us sitting somewhere quiet and talking " +
-            "for hours about random thoughts, silly things, " +
-            "dreams and everything in between.",
+    "Imagine you finishing almost all your responsibilities, " +
+    "finally having some time for yourself, " +
+    "and getting ready to go to a BTS concert. " +
+    "You already have your ticket, " +
+    "and you're standing right in the first row, " +
+    "waiting for the concert to start. " +
+
+    "Everything is ready. " +
+    "The lights, the stage, the crowd, " +
+    "everything is set, and the concert is just about to begin. " +
+
+    "You're standing there, completely excited, " +
+    "when suddenly someone comes from behind " +
+    "and gives you a really tight hug. " +
+
+    "You get scared and immediately scream, " +
+    "and you quickly turn around to see who it is. " +
+
+    "And then you see me. " +
+
+    "For that one second, I don't think either of us would even know what to say. " +
+    "We'd just look at each other, " +
+    "and somehow, we'd both feel that same little something " +
+    "we hadn't felt in a really long time. " +
+
+    "I'd look at you with the biggest smile, " +
+    "but at the same time, my eyes would already be filling with tears. " +
+    "I'd probably laugh a little while trying not to cry, " +
+    "because I still wouldn't believe that I'm actually standing there with you. " +
+
+    "And then the concert would finally start. " +
+
+    "We'd stand there together in the first row, " +
+    "screaming, singing, laughing, " +
+    "and enjoying every single moment together. " +
+
+    "That whole day would just be ours. " +
+
+    "After the concert ends, " +
+    "we'd go out together and eat something, " +
+    "talking about everything that happened while we were apart. " +
+
+    "Then we'd just walk around at night for a while, " +
+    "enjoying the city, talking about random things, " +
+    "laughing about old memories, " +
+    "and probably making new ones without even realizing it. " +
+
+    "Later that night, I'd stay at your place, " +
+    "and we'd spend the rest of the night talking and laughing, " +
+    "just enjoying the fact that after so long, " +
+    "we finally got to spend an entire day together again. " +
+
+    "And then the next morning would come. " +
+
+    "I'd have to leave and go back to my work, " +
+    "and you'd have to get ready for yours. " +
+
+    "We'd both go back to our own lives again, " +
+    "but this time, we'd have something new to carry with us. " +
+
+    "That one concert. " +
+    "That one hug. " +
+    "That one moment when we turned around and saw each other. " +
+
+    "And even while going to work the next morning, " +
+    "I know we'd both be sitting there with the same little smile, " +
+    "replaying everything that happened the night before in our minds. " +
+
+    "Because sometimes, " +
+    "one beautiful day with someone you missed for years " +
+    "is enough to stay in your heart for a very, very long time.",
 
             ending:
             "Some friendships just feel strangely familiar. ♡"
@@ -403,12 +537,82 @@ const friends = {
         scene: {
             title: "If you were sitting beside me...",
 
-            text:
-            "imagine a day when you where leaving from clg and " +
-            "suddenly someone came to you giving a bouquet od roses to you" +
-            "and said to turn over and you get to see me there with a smile and then" +
-            "without any warning you were crushed in a tight embrace of mine and i chuckle with happy tears"+
-            "and the next day i take you out and give everything "+"i always wished to give you a day full of happiness",
+            
+           text:
+    "Imagine you finishing college one day and walking out with your friends, " +
+    "smiling, laughing, and talking about random things like you always do. " +
+
+    "You're walking outside when someone comes towards you " +
+    "holding a beautiful bouquet of roses. " +
+    "They walk past you and hand it to you, " +
+    "and you're just standing there confused, wondering who could have sent it. " +
+
+    "You slowly turn around to see what's happening. " +
+
+    "And I'm standing right behind you. " +
+
+    "For a second, neither of us knows what to say. " +
+
+    "You just stare at me in complete shock, " +
+    "and I'm looking at you with tears already filling my eyes. " +
+    "I'm almost about to cry because I still can't believe " +
+    "that after all this time, I'm finally standing right in front of you. " +
+
+    "Then I smile, trying to control my tears, " +
+    "and without saying anything, I just pull you into a really tight hug. " +
+
+    "After holding you for a while, " +
+    "I'd look at you and ask, 'Did you miss me?' " +
+
+    "Then we'd just stand there talking for some time, " +
+    "trying to catch up on everything that happened while we were apart. " +
+
+    "After that, I'd ask you to come with me, " +
+    "and we'd go to your house together. " +
+
+    "You'd introduce me to your family, " +
+    "and I'd happily say hello to everyone, " +
+    "talking to them and making sure they know " +
+    "how special you are to me. " +
+
+    "Later that night, I'd come back and take you out with me. " +
+    "I'd take you somewhere nice, " +
+    "get you something you've always wanted, " +
+    "and just spend the whole evening with you. " +
+
+    "After that, I'd bring you back home safely, " +
+    "and tell you that I'm staying nearby in a hotel tonight, " +
+    "because I don't want this one day with you to end so quickly. " +
+
+    "The next morning, I'd come back and pick you up again. " +
+    "We'd go to a temple together, " +
+    "walk around, explore places, eat something, " +
+    "take pictures, laugh about random things, " +
+    "and just spend the entire day together. " +
+
+    "No rushing. " +
+    "No worrying about work. " +
+    "Just you and me getting one full day as soul sisters. " +
+
+    "And when the day finally comes to an end, " +
+    "I'd bring you back home and give you one last really tight hug. " +
+
+    "I'd smile at you and say, 'Take care, my little soul sister.' " +
+
+    "Then I'd tell you, " +
+    "'If there's another life, I hope you come back and find me again. " +
+    "I want us to be sisters again. " +
+    "I want us to have another life where we can spend even more time together.' " +
+
+    "And then I'd finally leave. " +
+
+    "But while going back, " +
+    "I'd keep thinking about how happy I am " +
+    "that I finally got to spend at least one whole day with my soul sister. " +
+
+    "Maybe one day isn't enough for all the years we missed, " +
+    "but that one day would still become one of those memories " +
+    "I'd carry with me for the rest of my life.",
 
             ending:
             "Some day i would be your real sister to look after you the way you after me now ♡"
@@ -540,15 +744,55 @@ const friends = {
 
         scene: {
             title: "A day of us",
+text:
+    "Imagine namma rendu perum oru azhagana cozy apartment-la irukkom. " +
+    "Apartment fulla romba warm-ahum peaceful-ahum irukku. " +
+    "Oru shelf-la azhagana bouquets, flowers, " +
+    "different different vases ellam neatly vechurukku. " +
 
-            text:
-            " oru nala apartment soft painted wall oda soft cozy ahh oru greay sofa abd balcony fulla plants and anga oru unjal"+
+    "Anga oru soft grey colour sofa irukku, " +
+    "adhukku opposite-la oru periya TV irukku. " +
+    "TV stand fulla neraya cute toys, " +
+    "chinna chinna teddy bears, " +
+    "azhagana little dolls ellam vechurukku. " +
 
-            "neyum nanum antha unjal ukantu una en lap la ukara vachu back hug panitu clam ahh tea kudichitu just few words betweetn us" +
+    "Sofa-kku konjam pakkathula oru periya glass sliding door irukku. " +
+    "Adha slide panni open pannina, " +
+    "namma balcony fulla green plants-ah irukku. " +
+    "Hanging plants, little pots, " +
+    "different different green plants ellam balcony-ah suthi irukku. " +
+    "Full place-um greenery-ah, romba peaceful-ah irukku. " +
 
-            "just us soft music potu pinadi soft evening la comfortable ahh"+
-            "i wish to hold like that for life long all smiling all loveing "+
-            "un cheecks la apo apo kiss panitu una apdiyea en embrace liyea vachu pathukanum",
+    "Oru evening, weather romba chill-ah irukkum. " +
+    "Naan balcony-la irukkura round swing-la ukkandhiruppen. " +
+    "Nee vandhu en madi-la ukantu iruppa. " +
+    "Naan unna back hug pannittu iruppen. " +
+
+    "Un kai-la oru tea cup irukkum, " +
+    "naan en tea cup-ah vechuttu, " +
+    "rendu perum apdiye tea sip pannittu iruppom. " +
+
+    "Namma rendu perum edho random-ah pesittu iruppom. " +
+    " work-la nadandha vishayam, " +
+    "random-aana chinna chinna things, " +
+    "edhuvume special-ah irukka vendiya avasiyam illa. " +
+
+    "Just namma rendu perum apdiye comfortable-ah iruppom. " +
+
+    "And honestly, un kooda irukkura oru normal day kooda " +
+    "enakku normal day-ah irukkaadhu. " +
+
+    "Because day special-ah irukkanum nu avasiyam illa. " +
+    "Nee en kooda irundha podhum, " +
+    "andha day enakku already special. " +
+
+    "Innikum apdi dhaan. " +
+    "Namma rendu perum edhuvum perusa pannama, " +
+    "just apdiye oruthar kooda oruthar irundhaalum podhum. " +
+
+    "Because enakku special moments venum nu illa. " +
+    "Un kooda irukkura ordinary moments-e " +
+    "enakku special memories-ah maaridum.",
 
 
             ending:
