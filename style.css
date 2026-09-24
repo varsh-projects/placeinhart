@@ -2030,3 +2030,69 @@ button:active {
     }
 
 }
+
+
+/* =========================================
+   SCENE — LONG TEXT SCROLLS INSIDE THE CARD
+========================================= */
+
+/* The screen stays one page tall; only the story scrolls */
+
+#sceneScreen .scene-container {
+    display: flex;
+    flex-direction: column;
+    max-height: 100%;
+}
+
+#sceneScreen .scene-card {
+    display: flex;
+    flex-direction: column;
+
+    flex: 0 1 auto;
+    min-height: 0;
+}
+
+#sceneText {
+    min-height: 0;
+    overflow-y: auto;
+
+    /* long text reads better left-aligned */
+    text-align: left;
+
+    /* "\n\n" inside the text becomes a paragraph break */
+    white-space: pre-line;
+
+    padding: 14px 10px 28px 0;
+
+    /* soft fade where the text scrolls under the edge */
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0, #000 14px, #000 calc(100% - 28px), transparent 100%);
+    mask-image: linear-gradient(to bottom, transparent 0, #000 14px, #000 calc(100% - 28px), transparent 100%);
+
+    /* slim purple scrollbar */
+    scrollbar-width: thin;
+    scrollbar-color: rgba(185, 139, 232, 0.5) transparent;
+
+    -webkit-overflow-scrolling: touch;
+}
+
+#sceneText::-webkit-scrollbar {
+    width: 6px;
+}
+
+#sceneText::-webkit-scrollbar-thumb {
+    border-radius: 6px;
+    background: rgba(185, 139, 232, 0.5);
+}
+
+@media (max-width: 768px) {
+
+    #sceneScreen .scene-card {
+        margin: 20px auto;
+        padding: 22px 20px 8px;
+    }
+
+    #sceneText {
+        font-size: 17px;
+    }
+
+}
